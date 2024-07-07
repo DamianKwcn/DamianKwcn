@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PennyPincher](https://github.com/DamianKwcn/PennyPincher)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **damian.kwiecien@outlook.com**
 
