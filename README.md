@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🌱 I’m currently learning **Spring Security, Keycloak**
+- 🌱 I’m currently learning **Kafka**
   
 - 🔭 I’m currently working on MyBudget RESTful API
 
