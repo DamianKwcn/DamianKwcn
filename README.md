@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🌱 I’m currently learning **Redis**
+- 🌱 I’m currently learning **Kafka**
   
 - 🔭 I’m currently working on MyBudget RESTful API
 
@@ -27,5 +27,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker"/></code>
+        <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="Redis"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB"/></code>
 	
 </div>
