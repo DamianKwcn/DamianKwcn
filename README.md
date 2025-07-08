@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 :wrench: I’m currently working on - MyBudget.<br>
-:green_book: I’m currently learning - AWS Certified Cloud Practitioner.<br>
+:green_book: I’m currently learning - AWS Certified Cloud Practitioner, Angular.<br>
 ⚡ Fun fact - I love solving coding problems late at night - and regretting it in the morning.
 
 
