@@ -1,3 +1,5 @@
+![Pasek In Damian](https://github.com/user-attachments/assets/9c0b2a40-9cd2-49a8-a252-da9faf5217f1)
+
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">Aspiring full-stack developer and computer science student with a passion for building real-world projects, always eager to learn something new.</h3>
 
