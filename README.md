@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 :wrench: I’m currently working on - MyBudget.<br>
-:green_book: I’m currently learning - AWS Certified Cloud Practitioner, Angular.<br>
+:green_book: I’m currently learning - Jenkins.<br>
 ⚡ Fun fact - I love solving coding problems late at night - and regretting it in the morning.
 
 
@@ -39,6 +39,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
