@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 :wrench: I’m currently working on - MyBudget.<br>
-:green_book: I’m currently learning - Jenkins and Angular.<br>
+:green_book: I’m currently learning - Jenkins, Cisco, networking.<br>
 ⚡ Fun fact - I love solving coding problems late at night - and regretting it in the morning.
 
 
