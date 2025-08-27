@@ -43,6 +43,8 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=DamianKwcn&theme=nightowl&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianKwcn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
